@@ -1,0 +1,8 @@
+[package]
+name = "orgntr_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+orgntr_ocir = { path = "../orgntr_ocir" }
+orgntr_target_x86_64 = { path = "../orgntr_target_x86_64" }

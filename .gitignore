@@ -1,0 +1,7 @@
+/target/
+/**/target/
+/Cargo.lock
+out.o
+run
+host.c
+.DS_Store

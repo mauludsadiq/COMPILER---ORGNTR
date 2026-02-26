@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+  "crates/orgntr_rt",
+  "crates/orgntr_ocir",
+  "crates/orgntr_target_x86_64",
+  "crates/orgntr_cli",
+]
